@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Patients</name>
+   <tag></tag>
+   <elementGuidId>628551fd-7dab-4500-8bfe-80b49ed4cb65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a.btn-white > em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::em[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>751f5c88-7d56-4134-83eb-e23e6983c079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Patients</value>
+      <webElementGuid>4237cdd4-a8c0-44e1-a6a5-135c15d8bad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;is-loaded&quot;]/body[@class=&quot;&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page-holder&quot;]/aside[@class=&quot;sidebar&quot;]/div[@class=&quot;top-box&quot;]/ul[@class=&quot;main-navigation&quot;]/li[2]/a[@class=&quot;btn-white&quot;]/em[1]</value>
+      <webElementGuid>6c363c53-7b09-473a-a4e1-17d3de099e97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::em[1]</value>
+      <webElementGuid>ea3aef2b-ea43-460b-a450-f8c7d6d335cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content'])[1]/following::em[2]</value>
+      <webElementGuid>62bcc3e3-c9f2-4a19-88f4-b90b626dc7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visits'])[1]/preceding::em[1]</value>
+      <webElementGuid>bff75f0d-30ec-4568-9533-78c325f9ec0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gynethotics™ Catalog'])[1]/preceding::em[2]</value>
+      <webElementGuid>8474529c-9d2c-444e-a4f5-abaa3d1ae4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Patients']/parent::*</value>
+      <webElementGuid>9fa6635a-75cc-4ff7-afd2-e48fd0f67df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/em</value>
+      <webElementGuid>10c82a8d-aa88-4d42-8dc2-abaf428be221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'Patients' or . = 'Patients')]</value>
+      <webElementGuid>f172c58a-d6aa-4003-bae7-ab4439982aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

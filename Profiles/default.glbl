@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'khannani@hhsc.ca'</initValue>
+      <name>SuperAdminEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'68\'00MixH4S(lc@Twak0'</initValue>
+      <name>SuperAdminPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dev.hhsc+luffy@gmail.com'</initValue>
+      <name>TestPatientEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://clinic-uat.cosm.care/patients/aa20b122-24e2-11ef-934a-0242ac120004'</initValue>
+      <name>TestPatientAccountPage</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
