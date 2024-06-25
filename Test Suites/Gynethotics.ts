@@ -15,7 +15,7 @@
       <guid>d17ec8b4-0e7c-4590-8f45-d14d3307c316</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Gynethotics/Super Admin Login</testCaseId>
+      <testCaseId>Test Cases/Configuration/Super Admin Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
